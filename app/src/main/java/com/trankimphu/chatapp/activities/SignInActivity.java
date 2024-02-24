@@ -14,7 +14,6 @@ import com.trankimphu.chatapp.databinding.ActivitySignInBinding;
 import com.trankimphu.chatapp.utilities.Constants;
 import com.trankimphu.chatapp.utilities.PreferenceManager;
 
-import java.util.HashMap;
 
 public class SignInActivity extends AppCompatActivity {
 
