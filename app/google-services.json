@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708004014598",
+    "project_id": "chat-app-ca513",
+    "storage_bucket": "chat-app-ca513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708004014598:android:8fb34c2f80d021d34ef187",
+        "android_client_info": {
+          "package_name": "com.trankimphu.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePsVR-Kgh-RCT-DCKCPkS1jLka8ZQ-nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
